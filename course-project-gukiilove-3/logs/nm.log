@@ -1,0 +1,13 @@
+[2025-12-04 14:43:28] [INFO] Starting Name Server on port 8000
+[2025-12-04 14:43:28] [INFO] Name Server listening
+[2025-12-04 14:43:39] [INFO] Connection from 127.0.0.1
+[2025-12-04 14:43:39] [INFO] Storage Server registered: ID=0 IP=127.0.0.1 NM_PORT=8000 CLIENT_PORT=9100
+[2025-12-04 14:43:39] [INFO] Re-registered file: persist.txt (owner: user_a, SS: 0)
+[2025-12-04 14:43:39] [INFO] Connection from 127.0.0.1
+[2025-12-04 14:43:39] [INFO] Received UPDATE_METADATA message
+[2025-12-04 14:43:39] [INFO] Updated metadata for persist.txt: words=2, chars=16, last_accessed=, last_accessed_by=
+[2025-12-04 14:43:46] [INFO] Connection from 127.0.0.1
+[2025-12-04 14:43:46] [INFO] Client registered: USER=user1\ IP=127.0.0.1 PORT=9200
+[2025-12-04 14:43:53] [INFO] VIEW by user1\ (flags: , file: )
+[2025-12-04 14:43:58] [INFO] VIEW by user1\ (flags: al, file: )
+[2025-12-04 14:44:07] [INFO] File registered: 1.txt -> SS 0 by user1\

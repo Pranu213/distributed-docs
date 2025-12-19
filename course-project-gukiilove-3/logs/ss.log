@@ -1,0 +1,47 @@
+[2025-12-04 14:28:43] [INFO] Starting Storage Server
+[2025-12-04 14:28:43] [INFO] Registered with Name Server
+[2025-12-04 14:28:43] [INFO] File announcement complete
+[2025-12-04 14:28:43] [INFO] Storage Server listening on port 9200
+[2025-12-04 14:30:49] [INFO] Client connected from 10.16.183.159
+[2025-12-04 14:30:49] [INFO] Saved persist.txt to disk (words=0, chars=0, sentences=0)
+[2025-12-04 14:30:49] [INFO] File created: persist.txt by user_a
+[2025-12-04 14:31:07] [INFO] Client connected from 10.16.183.159
+[2025-12-04 14:31:23] [DEBUG] WRITE word_idx=1 (0-based) content='Survive restart! ' to sentence 0
+[2025-12-04 14:31:23] [DEBUG] After parse: 0 sentences, sentence[0] has 0 words
+[2025-12-04 14:31:32] [INFO] Saved persist.txt to disk (words=2, chars=16, sentences=1)
+[2025-12-04 14:31:32] [INFO] Sent metadata update to NM: persist.txt (words=2, chars=16, sentences=1)
+[2025-12-04 14:31:32] [INFO] File written: persist.txt
+[2025-12-04 14:32:22] [INFO] Starting Storage Server
+[2025-12-04 14:32:22] [INFO] Loaded file: persist.txt (words=2, chars=16, sentences=1) 
+[2025-12-04 14:32:22] [INFO] Registered with Name Server
+[2025-12-04 14:32:22] [INFO] Announced existing file: persist.txt (owner: user_a)
+[2025-12-04 14:32:22] [INFO] Sent metadata update to NM: persist.txt (words=2, chars=16, sentences=1)
+[2025-12-04 14:32:22] [INFO] File announcement complete
+[2025-12-04 14:32:22] [INFO] Storage Server listening on port 9200
+[2025-12-04 14:32:36] [INFO] Client connected from 10.16.183.159
+[2025-12-04 14:43:39] [INFO] Starting Storage Server
+[2025-12-04 14:43:39] [INFO] Loaded file: persist.txt (words=2, chars=16, sentences=1) 
+[2025-12-04 14:43:39] [INFO] Registered with Name Server
+[2025-12-04 14:43:39] [INFO] Announced existing file: persist.txt (owner: user_a)
+[2025-12-04 14:43:39] [INFO] Sent metadata update to NM: persist.txt (words=2, chars=16, sentences=1)
+[2025-12-04 14:43:39] [INFO] File announcement complete
+[2025-12-04 14:43:39] [INFO] Storage Server listening on port 9100
+[2025-12-04 14:43:58] [INFO] Client connected from 127.0.0.1
+[2025-12-04 14:44:07] [INFO] Client connected from 127.0.0.1
+[2025-12-04 14:44:07] [INFO] Saved 1.txt to disk (words=0, chars=0, sentences=0)
+[2025-12-04 14:44:07] [INFO] File created: 1.txt by user1\
+[2025-12-04 14:45:42] [INFO] Starting Storage Server
+[2025-12-04 14:45:42] [INFO] Loaded file: persist.txt (words=2, chars=16, sentences=1) 
+[2025-12-04 14:45:42] [INFO] Loaded file: 1.txt (words=0, chars=0, sentences=0) 
+[2025-12-04 14:45:42] [INFO] Registered with Name Server
+[2025-12-04 14:45:42] [INFO] Announced existing file: persist.txt (owner: user_a)
+[2025-12-04 14:45:42] [INFO] Announced existing file: 1.txt (owner: user1\)
+[2025-12-04 14:45:42] [INFO] Sent metadata update to NM: persist.txt (words=2, chars=16, sentences=1)
+[2025-12-04 14:45:42] [INFO] Sent metadata update to NM: 1.txt (words=0, chars=0, sentences=0)
+[2025-12-04 14:45:42] [INFO] File announcement complete
+[2025-12-04 14:45:42] [INFO] Storage Server listening on port 9200
+[2025-12-04 14:45:53] [INFO] Client connected from 10.16.183.159
+[2025-12-04 14:45:54] [INFO] File streamed: persist.txt
+[2025-12-04 14:47:40] [INFO] Client connected from 10.16.183.159
+[2025-12-04 14:47:40] [INFO] Saved persist.txt to disk (words=2, chars=16, sentences=1)
+[2025-12-04 14:47:40] [INFO] File read: persist.txt
